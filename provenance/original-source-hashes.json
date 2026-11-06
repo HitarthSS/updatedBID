@@ -1,0 +1,25 @@
+{
+  "note": "Source collection hashes; exported locations may differ. Core algorithms are copied without behavior changes.",
+  "source_files": [
+    {
+      "bytes": 3941,
+      "file": "my_harness.py",
+      "sha256": "4c6150d27cb15031c93f6877879c0f5aee03135e1372c6ad800f778e80f59494"
+    },
+    {
+      "bytes": 19351,
+      "file": "run.py",
+      "sha256": "a85415b3e571025c7751f0cc9753b6c9697ab86c34dd95ce5f49352074cc0825"
+    },
+    {
+      "bytes": 1641,
+      "file": "launch.py",
+      "sha256": "67bff6248b1e7b296e34966f96e36e18b87e0a2a9846055d61a7bfa95972ac82"
+    },
+    {
+      "bytes": 2211,
+      "file": "licenses/UPSTREAM-LICENSE",
+      "sha256": "9f4c21766324371002ef29ebc3a69f57ecd720108a614a0f3228a02ec982978c"
+    }
+  ]
+}

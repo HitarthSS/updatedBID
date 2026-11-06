@@ -1,0 +1,42 @@
+{
+  "authors": {
+    "amortized_inference_seconds": 42776.611415925414,
+    "candidate_trajectories": 1018080,
+    "episodes": 120,
+    "horizon_violations": 0,
+    "mean_score": 0.8566176127473288,
+    "paid_api_calls": 0,
+    "physical_steps": 33936,
+    "success_percent": 18.333333333333332,
+    "successes": 22,
+    "vlm_calls": 0,
+    "vlm_tokens": 0
+  },
+  "completed_pairs": 120,
+  "mine": {
+    "amortized_inference_seconds": 32409.287485718265,
+    "candidate_trajectories": 521442,
+    "episodes": 120,
+    "horizon_violations": 0,
+    "mean_score": 0.8847898033141858,
+    "paid_api_calls": 0,
+    "physical_steps": 33105,
+    "success_percent": 23.333333333333332,
+    "successes": 28,
+    "vlm_calls": 0,
+    "vlm_tokens": 0
+  },
+  "paired": {
+    "harmed": 18,
+    "rescued": 24,
+    "score_difference": 0.02817219056685688,
+    "score_difference_bootstrap_95": [
+      -0.01197255018516858,
+      0.07097042635640492
+    ]
+  },
+  "planned_episodes": 240,
+  "planned_pairs": 120,
+  "primary_metric": "mean episode maximum normalized overlap reward",
+  "reproduction": "Single released stochastic Push-T condition; reconstructed RNG/batching/runtime, not exact paper aggregate"
+}

@@ -1,0 +1,28 @@
+{
+  "excluded_from_self_hash": [
+    ".gitignore",
+    "provenance/export.json",
+    "provenance/validation.json"
+  ],
+  "files": {
+    "EVALUATION.md": "72078d93a52d1f8a6318973dc73663f8fbc75c794e01bd3f188266c4aaf57b01",
+    "LICENSE": "bdad4c6087a3fea4f50fe2eb8bca565d5b25321eca79415ba015a23c99b7a6a2",
+    "NOTICE.md": "41a22e99fad6a6c8b7107c45490da6beddac8c02e486c402584995b6b715f202",
+    "PUBLICATION.json": "5811dd8f562e581456f44a8c059f150173be4ee6bd5cd785a9897007fbabc5ca",
+    "README.md": "6c27b519549ce5cc72cf17ec0f2ae52c3c5e5abd31bff4f9858419fbac0e2dfe",
+    "configs/method.json": "195e0592811a5397019648d0702447385f3dbdf0f29df2f91a4611ede85749e4",
+    "docs/INTEGRATION.md": "897281aa95bd9ecf9f796cbce598edad62655c6532350ed3251304ce8c2ec766",
+    "licenses/UPSTREAM-LICENSE": "9f4c21766324371002ef29ebc3a69f57ecd720108a614a0f3228a02ec982978c",
+    "my_harness.py": "4c6150d27cb15031c93f6877879c0f5aee03135e1372c6ad800f778e80f59494",
+    "provenance/evaluated-models.json": "f3375a0dfc8952cfa054a50f083e47c6685d0a4d608fcc719823af8b029381ac",
+    "provenance/original-source-hashes.json": "8b5ff801badac64005b3cd71d4d5b369119d22c8aaf63d6086154b32aed998f2",
+    "provenance/upstream.json": "d482c7331b89c06740aa8969d85d261e6933e918def7dcda7716fdd1be14ba58",
+    "reference/README.md": "73710e43ecb9584b021e55f76d9c08dd8acb72b19fad54cc439149cd05be9403",
+    "reference/launch.py": "67bff6248b1e7b296e34966f96e36e18b87e0a2a9846055d61a7bfa95972ac82",
+    "reference/run.py": "a85415b3e571025c7751f0cc9753b6c9697ab86c34dd95ce5f49352074cc0825",
+    "results/interpretation.json": "d2fa76afcc03e2a1eb4cec732ea9ed481a5ab46bd3c2df28890e39c477edb058",
+    "results/summary.json": "6f61e114a822454f6fe30d3b6c7dc2ff32b48402807a0606eca7489ac3c071ee",
+    "tools/verify_export.py": "c0f2a4ad4b66c20d59111f7a4005ac44d8ba4b795806cd8d8125fdff185bca2e"
+  },
+  "note": "Only exported files are covered. Existing upstream files are preserved. .gitignore is merged on the two existing repositories."
+}

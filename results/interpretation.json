@@ -1,0 +1,18 @@
+{
+  "authors_harness": "Overlap 0.8566; 22/120 complete successes (18.33%)",
+  "categories": [
+    "uncertainty_compute",
+    "proposal_selection"
+  ],
+  "full_paper_reproduction": false,
+  "horizon": "300 physical actions, 1.0x; no reset or retry allowance.",
+  "limitations": [
+    "Primary overlap difference interval is -0.0120 to +0.0710; it includes zero.",
+    "Earlier 100-case cohort: overlap 0.88995 versus 0.87863 and successes 21 versus 18; do not pool or hide it.",
+    "Candidate trajectories fell 1,018,080 to 521,442; measured amortized inference time fell 24.2% on shared hardware.",
+    "Modern runtime, batching and reconstructed RNG differ from the historical paper setup."
+  ],
+  "my_harness": "Overlap 0.8848; 28/120 complete successes (23.33%)",
+  "paper_reference": "Official repository representative mean maximum overlap: 0.889; not 88.9% complete success",
+  "scope": "One reported stochastic Push-T condition (noise 1.0), fresh seeds 20100\u201320219. Not the paper's seven-task aggregate."
+}

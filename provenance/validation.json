@@ -1,0 +1,21 @@
+{
+  "bash_syntax_files": 0,
+  "checked_at_utc": "2026-11-06T20:50:50.812226+00:00",
+  "core_entrypoint": "my_harness.py",
+  "core_matches_recorded_experiment": true,
+  "core_source_sha256": "4c6150d27cb15031c93f6877879c0f5aee03135e1372c6ad800f778e80f59494",
+  "cpu_tests": {
+    "executed": false,
+    "reason": "Upstream simulator/Torch dependencies are not installed by this source-only publication; syntax and source hashes checked instead."
+  },
+  "full_gpu_benchmark_revalidated": false,
+  "limitations": [
+    "Syntax and CPU checks do not establish fresh-machine numerical parity or benchmark reproduction."
+  ],
+  "markdown_paths_checked": true,
+  "model_api_calls": 0,
+  "passed": true,
+  "publication_only": true,
+  "python_ast_files": 4,
+  "secret_patterns_checked": true
+}

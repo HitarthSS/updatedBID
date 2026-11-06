@@ -1,0 +1,10 @@
+{
+  "description": "My harness for BID \u2014 adaptive candidate budget; frozen-policy source, integration notes, horizons and qualified pilot results.",
+  "existing_repository": false,
+  "main_entrypoint": "my_harness.py",
+  "new_visibility": "private",
+  "owner": "HitarthSS",
+  "paper": "https://arxiv.org/abs/2408.17355",
+  "repository": "updatedBID",
+  "requires_paid_api": false
+}
